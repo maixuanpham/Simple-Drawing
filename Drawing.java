@@ -1,9 +1,9 @@
-/*  Program:			Eclipse
-    Author:			Mai Pham	
-    Class:			CSCI 145
-    Date:			09/21/2017
-    Description:		Project 1 - Part B: Simple Drawing
-    I certify that the code below is my own work.
+/*  	Program:		Eclipse
+    	Author:			Mai Pham	
+    	Class:			CSCI 145
+    	Date:			09/21/2017
+    	Description:		Project 1 (Part B): Simple Drawing
+    	I certify that the code below is my own work.
 	Exception(s): N/A
 */
 import javafx.application.Application;
